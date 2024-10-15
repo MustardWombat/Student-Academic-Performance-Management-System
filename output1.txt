@@ -1,0 +1,159 @@
+:~Enter a student names file ~:Names.csv
+:~Enter a English grade score file ~:english_1.txt
+:~Enter a Math grade score file ~:math_1.txt
+:~Enter a Science grade score file ~:science_1.txt
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:1
+:~Enter a person name ~:Nancy Lee
+--------------
+Highest grade score: 91
+Subject name: English
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:2
+:~Enter a person name ~:linda
+Invalid name or does not exist
+:~Enter a person name ~:betty
+Invalid name or does not exist
+:~Enter a person name ~:Kevin Green
+--------------
+Average grade score: 56.3
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:3
+:~Enter a person name ~:matthew
+Invalid name or does not exist
+:~Enter a person name ~:anthony
+Invalid name or does not exist
+:~Enter a person name ~:John Lee
+--------------
+English: 59
+Speaking: 18 Writing: 13 Reading: 13 Listening: 15
+--------------
+Math: 63
+Geometry: 27 Arithmetic: 27 Logic: 9
+--------------
+Science: 26
+Biology: 9 Chemistry: 14 Physics: 3
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:4
+
+   Available subjects:
+                            Math, Science, and English 
+
+:~Enter a subject name ~:Literature
+Invalid name or does not exist
+:~Enter a subject name ~:math
+Invalid name or does not exist
+:~Enter a subject name ~:Science
+--------------
+Average grade score: 51.8
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:5
+:~Enter a grade threshold ~:-123
+Invalid grade score
+:~Enter a grade threshold ~:123
+Invalid grade score
+:~Enter a grade threshold ~:77
+--------------
+The number of students having average grade score higher than 77 is: 2
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:6
+--------------
+Name: Joshua Davis
+Average grade score: 90.0
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:7
+
+   Available subjects:
+                            Math, Science, and English 
+
+:~Enter a subject name ~:Literature
+Invalid name or does not exist
+:~Enter a subject name ~:science
+Invalid name or does not exist
+:~Enter a subject name ~:Math
+--------------
+Name: Joshua Davis
+Grade score: 95
+
+        Menu : 
+            1: The maximum grade a student received in a single subject
+            2: The average subject grade a student received
+            3: Individual information
+            4: The average grade of a subject over all students
+            5: The number of students with an average grade exceeding given threshold X
+            6: The name of student having the highest average grade
+            7: The name of student having the highest grade of given subject name
+                Enter any other key(s) to exit
+    
+:~Input a choice ~:xxx
+Thank you
