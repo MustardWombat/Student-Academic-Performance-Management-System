@@ -1,6 +1,6 @@
 #######################################################################################################################
 #
-# Computer Project 05
+# Student Academic Performance Management System
 #
 # This Python program manages student grades by reading data from files containing names and grades for English, Math,
 # and Science, then organizing the data into a master list. The program offers several options through a menu, allowing
